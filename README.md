@@ -35,11 +35,6 @@ Drafted two professional emails (assignment extension request and internship app
 ### Task 5 – Cybercrime Awareness  
 Researched phishing attacks and prepared a case study along with a prevention checklist focusing on online safety and UPI-related precautions.  
 
----
-
-## Links  
-
-- 🔗 **Digital Literacy Quiz:** https://forms.gle/cYk4W38z9n6ydS978  
 
 ---
 
