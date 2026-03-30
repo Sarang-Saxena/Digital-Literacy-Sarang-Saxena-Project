@@ -10,9 +10,9 @@ Through this portfolio, I have completed multiple practical tasks that demonstra
 
 ## Student Details  
 
-**Name:** Dhyaan Dharmesh Kanoja  
-**Registration Number:** 25BCY10016  
-**Branch:** Computer Science and Engineering (Cyber Security and Digital Forensics)  
+**Name:** Sarang Saxena 
+**Registration Number:** 25BAI10040  
+**Branch:** Computer Science and Engineering (Artificial Intelligence and Machine Learning)
 **Year:** First Year B.Tech  
 **Institution:** VIT Bhopal University  
 
